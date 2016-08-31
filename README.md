@@ -8,9 +8,8 @@ Esse projeto tem como objetivo disponibizar amostras de código (e outros materi
 
 Até o momento, já foram criados os seguintes repositórios:
 
-- TODO
-
-- - -
+- Terceiro ano 
+	[Elementos de Programação](https://github.com/atropelando/terceiro-ano-programacao)
 
 # Licensa
 
